@@ -1,0 +1,628 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #000028;
+}
+
+.container-fluid
+{
+    
+    margin:0px;
+    padding:0px ;
+}
+
+.div1
+{
+    height:100px ;
+    background-color: #000028;
+}
+.div100
+{
+    border:1px solid white;
+    width:26px ;
+}
+
+.div110
+{
+    border:1px solid white;
+    width:15px ;
+}
+
+.div120
+{
+    border:1px solid white;
+    width:26px ;
+}
+
+.div2
+{
+   
+    height:700px ;
+    background-color:#000028 ;
+}
+
+.button1
+{
+    width:200px ;
+    height:60px ;
+    display: block;
+    border:none ;
+    font-size:20px ;
+    margin-left:50px ;
+    margin-top:20px ;
+    background-color: #00ffb9;
+}
+
+.button1:hover
+{
+    background-color: #c5ffef;
+}
+.div3
+{
+    
+    height:500px ;
+    background-color: #000028;
+}
+
+.paragaraph:hover
+{
+    color:#00ffb9  !important;
+    text-decoration: none;
+}
+a
+{
+    text-decoration:none ;
+}
+
+.div4
+{
+    
+    height:290px ;
+    background-color: #000028;
+}
+
+.button2
+{
+    border:1px solid #00CCCC ;
+    width:205px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:90px ;
+    margin-top:20px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button2:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button3
+{
+    border:1px solid #00CCCC ;
+    width:170px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:310px ;
+    margin-top:-30px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button3:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button4
+{
+    border:1px solid #00CCCC ;
+    width:130px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:495px ;
+    margin-top:-30px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button4:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button5
+{
+    border:1px solid #00CCCC ;
+    width:170px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:640px ;
+    margin-top:-30px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button5:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button6
+{
+    border:1px solid #00CCCC ;
+    width:200px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:825px ;
+    margin-top:-30px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button6:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button7
+{
+    border:1px solid #00CCCC ;
+    width:150px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:90px ;
+    margin-top:20px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button7:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button8
+{
+    border:1px solid #00CCCC ;
+    width:90px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:255px ;
+    margin-top:-29px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+    position: absolute;
+}
+.button8:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button9
+{
+    border:1px solid #00CCCC ;
+    width:140px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:358px ;
+    margin-top:-28px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button9:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button10
+{
+    border:1px solid #00CCCC ;
+    width:120px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:515px ;
+    margin-top:-28px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button10:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.button11
+{
+    border:1px solid #00CCCC ;
+    width:120px ;
+    height:30px ;
+    display: block;
+    font-size:16px ;
+    border-radius:16px ;
+    margin-left:650px ;
+    margin-top:-28px ;
+    background-color:#000028 ;
+    color:#00CCCC ;
+    border-color:#00CCCC ;
+}
+.button11:hover
+{
+    color: #00FFB9;
+    background-color:#00CCCC33 ;
+    font-weight:700px ;
+}
+
+.div5
+{
+     
+     height:1000px ; 
+    background-color: #000028;
+}
+.row
+{
+   
+}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12
+{
+    
+}
+
+.div14
+{
+    
+    height:300px ;
+}
+
+.container
+{
+    
+}
+
+.row
+{
+    
+    height:1500px ;
+}
+
+.card
+{
+    background-color:rgba(0, 204, 204, .12);
+    /* padding: 0 24px 56px; */
+    /* height:300px; */
+    color: #fff;
+}
+.card-item
+{
+    font-size: 1.125rem;
+    font-family: Siemens Sans Black,arial,sans-serif;
+    line-height: 1.2222222222;
+    color: var(--theme-color-1);
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.card-p
+{
+    font-size: 1.75rem;
+    font-family: Siemens Sans Black,arial,sans-serif;
+}
+
+.card-t
+{
+    font-size: 1.75rem;
+    font-family: Siemens Sans Black,arial,sans-serif;
+    line-height: 1.2142857143;
+}
+
+.div10
+{
+    
+    height:500px ;
+    width:700px ;
+    margin-top:-100px ;
+}
+
+
+
+.busines{
+    position: relative;
+    height:800px;
+    background-image:url("./pic/11.jpg");
+     background-repeat: no-repeat;
+     background-size:1350px 950px ;
+     /* opacity: 0.7; */
+}
+
+.busines::after{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+.divparagraph
+{
+    position: relative;
+    z-index: 9999;
+}
+
+.p1
+{
+    font-size: 3rem;
+    font-family: Siemens Sans Black,arial,sans-serif;
+    line-height: 1.1666666667;
+}
+
+.divhov
+{
+ 
+    width:170px ;
+    height:60px ;
+    margin-top:50px ;
+    margin-left:100px ;
+    background-color:#00CCCC ;
+}
+
+.divhov:hover
+{
+    background-color: #00ffb9;
+}
+
+.card .imgg {
+    overflow: hidden;
+}
+
+
+.card:hover .imgg .card-img{
+    transform: scale(1.2);
+    transition: .5s all;
+}
+
+.card:hover .divcard1 .card-item,.card:hover .divcard1 .card-p{
+    color: #00FFB9;
+    transition: .5s all;
+}
+
+.divlast
+{
+    
+    height:600px ;
+    margin-top: 320px;
+}
+
+.a1:hover
+{
+  color:#00ffb9;
+  text-decoration: none;
+}
+
+.a1
+{
+    color: #00CCCC;
+}
+
+.fa-angle-right
+{
+    margin-left:10px ;
+    margin-top:-10px ;
+}
+
+.a00
+{
+    color: #fff;
+    text-decoration: underline;
+    font-size:18px ;
+    margin-top:50px ;
+    margin-left:-30px ;
+}
+
+.a00:hover
+{
+    color:#00FFB9;
+}
+
+.a01
+{
+    color: #fff;
+    text-decoration: underline;
+    font-size:18px ;
+    margin-top:-40px ;
+    margin-left:210px ;
+}
+
+.a01:hover
+{
+    color:#00FFB9;
+}
+
+.a02
+{
+    color: #fff;
+    text-decoration: underline;
+    font-size:18px ;
+    margin-top:-54px ;
+    margin-left:380px ;
+}
+
+.a02:hover
+{
+    color:#00FFB9;
+}
+
+.a03
+{
+    color: #fff;
+    text-decoration: underline;
+    font-size:18px ;
+    margin-top:-67px ;
+    margin-left:540px ;
+}
+
+.a03:hover
+{
+    color:#00FFB9;
+}
+
+.a04
+{
+    color: #fff;
+    text-decoration: underline;
+    font-size:18px ;
+    margin-top:-80px ;
+    margin-left:700px ;
+}
+
+.a04:hover
+{
+    color:#00FFB9;
+}
+
+.div9
+{
+    
+    width:210px ;
+    height:65px ;
+    margin-left:950px ;
+    margin-top:-115px ;
+    background-color:#fff ;
+}
+
+.fa-envelope
+{
+    font-size:18px ;
+    margin-top:22px ;
+    margin-left:25px ;
+}
+
+.a0098
+{
+    color: #000028;
+   
+}
+
+.div9:hover
+{
+    background-color: #00FFB9;
+}
+
+.a0098:hover
+{
+    text-decoration: none;
+    color: #000028;
+}
+
+.a05
+{
+    color: #b3b3be;
+    text-decoration: underline;
+    font-size:18px ;
+    margin-top:-30px ;
+    margin-left:-30px ;
+}
+
+.a05:hover
+{
+    color:#00FFB9;
+}
+.div90
+{
+    
+    width:300px ;
+    height:50px ;
+    margin-left:900px ;
+    margin-top:-65px ;
+}
+
+.logos
+{
+    color:white ;
+}
+
+.logos:hover
+{
+    color: #00FFB9;
+}
+
+.logos2
+{
+    color:white ;
+}
+
+.logos2:hover
+{
+    color: #00FFB9;
+}
+
+.logos3
+{
+    color:white ;
+}
+
+.logos3:hover
+{
+    color: #00FFB9;
+}
+
+.logos4
+{
+    color:white ;
+}
+
+.logos4:hover
+{
+    color: #00FFB9;
+}
+
+.logos5
+{
+    color:white ;
+}
+
+.logos5:hover
+{
+    color: #00FFB9;
+}
